@@ -4,8 +4,8 @@ This repository contains simulations of basic CMOS (Complementary Metal-Oxide-Se
 Key Features and Descriptions:
 1. CMOS NOT Gate (Inverter)
 The CMOS NOT gate, also known as the inverter, is the simplest logic gate. It takes a single input and produces an output that is the logical negation (complement) of the input. In CMOS technology, this gate is constructed using a combination of PMOS and NMOS transistors:
-![Screenshot 2025-02-17 212746](https://github.com/user-attachments/assets/dff72471-b65d-48fb-a1ff-d3d597fa5d95)
-![Screenshot 2025-02-17 212734](https://github.com/user-attachments/assets/df463e80-1c20-4301-b4f8-3ca741c16d93)
+![image](https://github.com/user-attachments/assets/ee09abef-da8b-4329-9996-c61534822e3c)
+
 
 When the input is high (1), the NMOS transistor conducts, pulling the output low (0), while the PMOS transistor is off.
 When the input is low (0), the PMOS transistor conducts, pulling the output high (1), while the NMOS transistor is off.
